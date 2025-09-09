@@ -20,7 +20,7 @@ the FastAPI documentation.
    ```
 
 2. **Install Python 3.12 (if needed)**
-   ```bash`
+   ```bash
    uv python install 3.12
    ```
 
